@@ -1,0 +1,4 @@
+interface:
+  display_name: "证据优先写作"
+  short_description: "面向科研、技术和专业沟通的清晰证据导向写作与润色规范"
+  default_prompt: "使用 $evidence-first-writing-zh 修改这段文字，使其事实清楚、表达自然、结论克制。"
