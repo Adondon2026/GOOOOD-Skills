@@ -1,0 +1,21 @@
+# Historical Windows/Python 3.12 runtime pins from the verified G-NAOE installation.
+# Install verified GPU torch/torchaudio separately FIRST and constrain them.
+# Install local chatterbox-tts / resemble-perth wheels separately LAST.
+# This is the direct runtime set, not a complete transitive lockfile.
+numpy==1.26.4
+librosa==0.11.0
+s3tokenizer==0.3.0
+transformers==5.2.0
+diffusers==0.29.0
+conformer==0.3.2
+safetensors==0.5.3
+spacy-pkuseg==1.0.1
+pykakasi==2.3.0
+gradio==6.8.0
+gradio-client==2.2.0
+pyloudnorm==0.2.0
+omegaconf==2.4.0
+soundfile==0.14.0
+PyYAML==6.0.3
+pydub==0.25.1
+huggingface-hub==1.33.0

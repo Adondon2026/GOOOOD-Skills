@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 语音克隆与字幕"
+  short_description: "从英文参考声音到逐页配音、短句字幕与剪映换页时间轴的完整工作流"
+  default_prompt: "使用 $ppt-voice-clone-video，根据 PPT 图片、逐页讲稿和参考声音制作配音，先试听，再生成单行短句字幕和剪映换页提示。"
